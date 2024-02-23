@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+body {
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    font: normal 25px "Arial";
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+section {
+    background-color: rgb(53, 53, 53);
+    margin: auto;
+    padding: 20px;
+    width: 270px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+#res {
+    background-color: white;
+    width: 240px;
+    height: 30px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font: normal 20px "Arial";
+    text-align: right;
+    padding: 10px;
+}
+table {
+    margin: auto;
+    font: normal 20px "Arial";
+    color: white;
+    border-collapse: collapse;
+}
+.botao {
+    font: normal 20px "Arial";
+    width: 60px;
+    height: 60px;
+    background-color: rgb(119, 119, 119);
+    margin: 3px 3px;
+    text-align: center;
+    color: white;
+    border: none;
+}
+.botao:hover {
+    background-color: rgb(78, 78, 78);
+    cursor: pointer;
+}
+footer {
+    text-align: center;
+    color: gray;
+    font: normal 16px 'Arial';
+    font-style: italic;
+}
+#github {
+    color: gray;
+    text-decoration: none;
+}
+#github:hover{
+    color: black;
+}
