@@ -7,6 +7,8 @@
   <h2>Linguagens utilizadas:</h2>
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="80em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
 </div>
 <div align="center">
   <h2>Ferramentas utilizadas:</h2>
