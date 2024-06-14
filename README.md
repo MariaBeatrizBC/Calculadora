@@ -1,7 +1,7 @@
 <h1 align="center">Calculadora</h1>
 <div align="center">
   <h2>Sobre o projeto:</h2>
-  <p>O projeto foi desenvolvido para a prática das habilidades de desenvolvimento em JavaScript.</p>
+  <p>O projeto foi desenvolvido para a prática das habilidades de desenvolvimento em JavaScript e consiste na criação de uma calculadora responsiva.</p>
 </div>
 <div align="center">
   <h2>Linguagens utilizadas:</h2>
@@ -16,6 +16,7 @@
 </div>
 <div align="center">
   <h2>Aplicação:</h2>
+  <img src="https://github.com/MariaBeatrizBC/Calculadora/assets/129955834/fc5f887a-783b-456c-b896-58e2fdc53c32">
   <a href="https://mariabeatrizbc.github.io/Calculadora/" target="_blank">Clique aqui para visualização do site.</a>
   <br>
   <br>
